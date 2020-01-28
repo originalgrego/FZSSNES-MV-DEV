@@ -1,0 +1,12 @@
+Version=FZEdit Version 0.1
+MapName=SYN- Explosive Circuit
+TrackFile=Explosive Circuit_Tilemap.tmx
+AiPathFile=Explosive Circuit_Checkpoints.aip
+TilesetFile=Explosive Circuit_Tileset.gif
+PaletteFile=Explosive Circuit_Palette.bmp
+Variation=0
+Venue=1
+Music=1
+InGameMapName=SYNOBA22 'ESPLOSIVE'
+HorizonShade=Light
+CycleData=00000000000000

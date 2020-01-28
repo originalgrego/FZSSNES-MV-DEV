@@ -1,0 +1,12 @@
+Version=FZEdit Version 0.1
+MapName=Stark Farm III
+TrackFile=Stark Farm III_Tilemap.tmx
+AiPathFile=Stark Farm III_Checkpoints.aip
+TilesetFile=Stark Farm III_Tileset.gif
+PaletteFile=Stark Farm III_Palette.bmp
+Variation=0
+Venue=8
+Music=8
+InGameMapName=STARK FARM (THIRD)
+HorizonShade=Light
+CycleData=00000000000000

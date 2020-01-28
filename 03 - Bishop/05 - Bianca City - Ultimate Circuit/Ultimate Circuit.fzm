@@ -1,0 +1,12 @@
+Version=FZEdit Version 0.1
+MapName=Ultimate Circuit
+TrackFile=Ultimate Circuit_Tilemap.tmx
+AiPathFile=Ultimate Circuit_Checkpoints.aip
+TilesetFile=Ultimate Circuit_Tileset.gif
+PaletteFile=Ultimate Circuit_Palette.bmp
+Variation=0
+Venue=7
+Music=7
+InGameMapName=BIANCA CITY (ULTIMATE)
+HorizonShade=Light
+CycleData=00001010100000

@@ -1,0 +1,12 @@
+Version=FZEdit Version 0.1
+MapName=Split Circuit
+TrackFile=Split Circuit_Tilemap.tmx
+AiPathFile=Split Circuit_Checkpoints.aip
+TilesetFile=Split Circuit_Tileset.gif
+PaletteFile=Split Circuit_Palette.bmp
+Variation=0
+Venue=5
+Music=5
+InGameMapName=ANCIENT MESA 'SPLIT'
+HorizonShade=Light
+CycleData=00000000000000
