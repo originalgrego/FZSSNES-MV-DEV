@@ -1,7 +1,12 @@
-Open Circuit
-Open Circuit_Tilemap.tmx
-Open Circuit_Checkpoints.aip
-Open Circuit_Tileset.gif
-Open Circuit_Palette.bmp
-2
-1
+Version=FZEdit Version 0.1
+MapName=Open Circuit
+TrackFile=Open Circuit_Tilemap.tmx
+AiPathFile=Open Circuit_Checkpoints.aip
+TilesetFile=Open Circuit_Tileset.gif
+PaletteFile=Open Circuit_Palette.bmp
+Variation=2
+Venue=1
+Music=1
+InGameMapName=
+HorizonShade=Light
+CycleData=00000000000000
