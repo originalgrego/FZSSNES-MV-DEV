@@ -1,4 +1,4 @@
-Version=FZEdit Version 0.1
+Version=FZEdit Version 0.5
 MapName=Stretch Circuit
 TrackFile=Stretch Circuit_Tilemap.tmx
 AiPathFile=Stretch Circuit_Checkpoints.aip
@@ -10,3 +10,5 @@ Music=7
 InGameMapName=BIANCA CITY 'STRETCH'
 HorizonShade=Dark
 CycleData=00001010100000
+GUID=38739a99-f196-46ce-9f4c-4335dbbeff5a
+MiniMapFile=Stretch Circuit_Minimap.bmp

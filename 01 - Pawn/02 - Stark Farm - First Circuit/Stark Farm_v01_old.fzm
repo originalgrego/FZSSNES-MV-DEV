@@ -1,0 +1,12 @@
+Version=FZEdit Version 0.1
+MapName=Stark Farm 1
+TrackFile=Stark Farm_Tilemap.tmx
+AiPathFile=Stark Farm_Checkpoints.aip
+TilesetFile=Stark Farm_Tileset.gif
+PaletteFile=Stark Farm_Palette.bmp
+Variation=0
+Venue=6
+Music=1
+InGameMapName=STARK FARM 'FIRST'
+HorizonShade=Dark
+CycleData=00000000000000

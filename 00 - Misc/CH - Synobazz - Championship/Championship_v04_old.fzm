@@ -1,0 +1,13 @@
+Version=FZEdit Version 0.4
+MapName=Championship
+TrackFile=Championship_Tilemap.tmx
+AiPathFile=Championship_Checkpoints.aip
+TilesetFile=Championship_Tileset.gif
+PaletteFile=Championship_Palette.bmp
+Variation=2
+Venue=1
+Music=1
+InGameMapName=
+HorizonShade=Light
+CycleData=00000000000000
+GUID=8f08ac2c-4d58-4aae-9223-c16092bff0d0

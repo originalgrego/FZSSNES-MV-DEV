@@ -1,0 +1,12 @@
+Version=FZEdit Version 0.1
+MapName=Tightrope Circuit
+TrackFile=Tightrope Circuit_Tilemap.tmx
+AiPathFile=Tightrope Circuit_Checkpoints.aip
+TilesetFile=Tightrope Circuit_Tileset.gif
+PaletteFile=Tightrope Circuit_Palette.bmp
+Variation=0
+Venue=3
+Music=3
+InGameMapName=BIANCA CITY (TIGHT)
+HorizonShade=Light
+CycleData=00001010100000

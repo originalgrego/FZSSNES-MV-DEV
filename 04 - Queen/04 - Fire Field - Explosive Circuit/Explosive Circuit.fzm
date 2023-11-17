@@ -1,4 +1,4 @@
-Version=FZEdit Version 0.1
+Version=FZEdit Version 0.5
 MapName=Explosive Circuit
 TrackFile=Explosive Circuit_Tilemap.tmx
 AiPathFile=Explosive Circuit_Checkpoints.aip
@@ -10,3 +10,5 @@ Music=0
 InGameMapName=FIRE FIELD (ESPLOSIVE)
 HorizonShade=Light
 CycleData=00001000000000
+GUID=5eacbdf9-f04a-458e-b168-2ba3828ac0a7
+MiniMapFile=Explosive Circuit_Minimap.bmp

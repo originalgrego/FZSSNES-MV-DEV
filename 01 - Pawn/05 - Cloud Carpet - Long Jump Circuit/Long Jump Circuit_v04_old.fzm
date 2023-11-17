@@ -1,0 +1,13 @@
+Version=FZEdit Version 0.4
+MapName=Long Jump Circuit
+TrackFile=Long Jump Circuit_Tilemap.tmx
+AiPathFile=Long Jump Circuit_Checkpoints.aip
+TilesetFile=Long Jump Circuit_Tileset.gif
+PaletteFile=Long Jump Circuit_Palette.bmp
+Variation=0
+Venue=0
+Music=0
+InGameMapName=CLOUD CARPET 'LONG'
+HorizonShade=Light
+CycleData=00001011100000
+GUID=ec24c3b1-a2de-4511-a74a-6770d013fcf6

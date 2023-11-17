@@ -1,0 +1,13 @@
+Version=FZEdit Version 0.4
+MapName=Dash Circuit
+TrackFile=Dash Circuit_Tilemap.tmx
+AiPathFile=Dash Circuit_Checkpoints.aip
+TilesetFile=Dash Circuit_Tileset.gif
+PaletteFile=Dash Circuit_Palette.bmp
+Variation=0
+Venue=3
+Music=3
+InGameMapName=EMPYREAN 'DASH'
+HorizonShade=Light
+CycleData=00000000000000
+GUID=273b0d06-073f-4763-8b44-41d861dae7ec

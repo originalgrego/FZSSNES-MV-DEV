@@ -1,4 +1,4 @@
-Version=FZEdit Version 0.1
+Version=FZEdit Version 0.5
 MapName=Championship
 TrackFile=Championship_Tilemap.tmx
 AiPathFile=Championship_Checkpoints.aip
@@ -10,3 +10,5 @@ Music=1
 InGameMapName=
 HorizonShade=Light
 CycleData=00000000000000
+GUID=8f08ac2c-4d58-4aae-9223-c16092bff0d0
+MiniMapFile=Championship_Minimap.bmp

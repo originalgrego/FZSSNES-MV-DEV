@@ -1,0 +1,13 @@
+Version=FZEdit Version 0.4
+MapName=Warrior Circuit
+TrackFile=Warrior Circuit_Tilemap.tmx
+AiPathFile=Warrior Circuit_Checkpoints.aip
+TilesetFile=Warrior Circuit_Tileset.gif
+PaletteFile=Warrior Circuit_Palette.bmp
+Variation=0
+Venue=6
+Music=6
+InGameMapName=FIRE FIELD (WARRIOR)
+HorizonShade=Light
+CycleData=00001000000000
+GUID=4ea93a53-8f33-49b6-bbb7-16424814bade

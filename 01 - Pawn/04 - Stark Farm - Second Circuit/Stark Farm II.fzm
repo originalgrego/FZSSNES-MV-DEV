@@ -1,4 +1,4 @@
-Version=FZEdit Version 0.1
+Version=FZEdit Version 0.5
 MapName=Stark Farm II
 TrackFile=Stark Farm II_Tilemap.tmx
 AiPathFile=Stark Farm II_Checkpoints.aip
@@ -10,3 +10,5 @@ Music=8
 InGameMapName=STARK FARM 'SECOND'
 HorizonShade=Light
 CycleData=00000000000000
+GUID=e402c59a-2bd2-402d-b37b-b611eeacef27
+MiniMapFile=Stark Farm II_Minimap.bmp

@@ -1,4 +1,4 @@
-Version=FZEdit Version 0.1
+Version=FZEdit Version 0.5
 MapName=Open Circuit
 TrackFile=Open Circuit_Tilemap.tmx
 AiPathFile=Open Circuit_Checkpoints.aip
@@ -10,3 +10,5 @@ Music=1
 InGameMapName=
 HorizonShade=Light
 CycleData=00000000000000
+GUID=6b0ed552-a1b8-43d9-b126-abee47356343
+MiniMapFile=Open Circuit_Minimap.bmp

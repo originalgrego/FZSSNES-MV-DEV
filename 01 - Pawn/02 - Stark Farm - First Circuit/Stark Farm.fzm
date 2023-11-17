@@ -1,4 +1,4 @@
-Version=FZEdit Version 0.1
+Version=FZEdit Version 0.5
 MapName=Stark Farm 1
 TrackFile=Stark Farm_Tilemap.tmx
 AiPathFile=Stark Farm_Checkpoints.aip
@@ -10,3 +10,5 @@ Music=1
 InGameMapName=STARK FARM 'FIRST'
 HorizonShade=Dark
 CycleData=00000000000000
+GUID=7e8e6e8d-20d2-4caf-9490-7cc8a849524e
+MiniMapFile=Stark Farm_Minimap.bmp

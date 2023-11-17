@@ -1,0 +1,13 @@
+Version=FZEdit Version 0.4
+MapName=Icarus Circuit
+TrackFile=Icarus Circuit_Tilemap.tmx
+AiPathFile=Icarus Circuit_Checkpoints.aip
+TilesetFile=Icarus Circuit_Tileset.gif
+PaletteFile=Icarus Circuit_Palette.bmp
+Variation=0
+Venue=0
+Music=0
+InGameMapName=CLOUD CARPET (ICARUS)
+HorizonShade=Light
+CycleData=00001011100000
+GUID=fc28ae3d-8d82-45b5-b216-e011c7dc0f6e

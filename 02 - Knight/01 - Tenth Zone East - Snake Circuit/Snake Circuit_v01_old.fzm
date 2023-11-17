@@ -1,0 +1,12 @@
+Version=FZEdit Version 0.1
+MapName=Snake Circuit
+TrackFile=Snake Circuit_Tilemap.tmx
+AiPathFile=Snake Circuit_Checkpoints.aip
+TilesetFile=Snake Circuit_Tileset.gif
+PaletteFile=Snake Circuit_Palette.bmp
+Variation=0
+Venue=3
+Music=3
+InGameMapName=TENTH 2ONE EAST 'SNAKE'
+HorizonShade=Light
+CycleData=00001010100000

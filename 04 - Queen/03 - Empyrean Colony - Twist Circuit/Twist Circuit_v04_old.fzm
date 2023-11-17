@@ -1,0 +1,13 @@
+Version=FZEdit Version 0.4
+MapName=Twist Circuit
+TrackFile=Twist Circuit_Tilemap.tmx
+AiPathFile=Twist Circuit_Checkpoints.aip
+TilesetFile=Twist Circuit_Tileset.gif
+PaletteFile=Twist Circuit_Palette.bmp
+Variation=0
+Venue=1
+Music=1
+InGameMapName=EMPYREAN COLONY (TWIST)
+HorizonShade=Light
+CycleData=00000000000000
+GUID=728108cc-71cd-4d65-9105-fa5fe2444cc0

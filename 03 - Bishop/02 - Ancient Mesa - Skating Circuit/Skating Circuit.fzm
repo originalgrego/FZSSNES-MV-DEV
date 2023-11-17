@@ -1,4 +1,4 @@
-Version=FZEdit Version 0.1
+Version=FZEdit Version 0.5
 MapName=Skating Circuit
 TrackFile=Skating Circuit_Tilemap.tmx
 AiPathFile=Skating Circuit_Checkpoints.aip
@@ -10,3 +10,5 @@ Music=8
 InGameMapName=ANCIENT MESA (SKATING)
 HorizonShade=Light
 CycleData=00000000000000
+GUID=64b83e63-726a-470d-8e0a-35309288cb38
+MiniMapFile=Skating Circuit_Minimap.bmp

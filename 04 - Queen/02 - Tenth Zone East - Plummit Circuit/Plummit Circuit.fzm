@@ -1,4 +1,4 @@
-Version=FZEdit Version 0.1
+Version=FZEdit Version 0.5
 MapName=Plummit Circuit
 TrackFile=Plummit Circuit_Tilemap.tmx
 AiPathFile=Plummit Circuit_Checkpoints.aip
@@ -10,3 +10,5 @@ Music=3
 InGameMapName=TENTH 2ONE (PLUMMIT)
 HorizonShade=Dark
 CycleData=00001010100000
+GUID=4d99456e-3583-45f6-98c8-59e05bff8c0f
+MiniMapFile=Plummit Circuit_Minimap.bmp

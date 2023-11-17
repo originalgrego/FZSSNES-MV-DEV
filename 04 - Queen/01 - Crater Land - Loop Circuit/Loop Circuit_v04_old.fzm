@@ -1,0 +1,13 @@
+Version=FZEdit Version 0.4
+MapName=Loop Circuit
+TrackFile=Loop Circuit_Tilemap.tmx
+AiPathFile=Loop Circuit_Checkpoints.aip
+TilesetFile=Loop Circuit_Tileset.gif
+PaletteFile=Loop Circuit_Palette.bmp
+Variation=0
+Venue=8
+Music=8
+InGameMapName=CRATER LAND 'LOOP'
+HorizonShade=Light
+CycleData=00000000000000
+GUID=35f97943-1c00-4866-8ca5-cf463428d657

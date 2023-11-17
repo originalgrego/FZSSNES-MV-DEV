@@ -1,4 +1,4 @@
-Version=FZEdit Version 0.1
+Version=FZEdit Version 0.5
 MapName=Crossroad Circuit
 TrackFile=Crossroad Circuit_Tilemap.tmx
 AiPathFile=Crossroad Circuit_Checkpoints.aip
@@ -10,3 +10,5 @@ Music=4
 InGameMapName=BEACON PORT (CROSSROAD)
 HorizonShade=Light
 CycleData=00001011100000
+GUID=2d81e03c-1d36-4b47-9b2c-985cecdac8f6
+MiniMapFile=Crossroad Circuit_Minimap.bmp

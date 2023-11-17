@@ -1,0 +1,13 @@
+Version=FZEdit Version 0.4
+MapName=Skid Zone Circuit
+TrackFile=Skid Zone Circuit_Tilemap.tmx
+AiPathFile=Skid Zone Circuit_Checkpoints.aip
+TilesetFile=Skid Zone Circuit_Tileset.gif
+PaletteFile=Skid Zone Circuit_Palette.bmp
+Variation=0
+Venue=1
+Music=1
+InGameMapName=CRATER LAND (SKID)
+HorizonShade=Light
+CycleData=00000000000000
+GUID=299d20b2-5c5e-426d-aaa2-0d40c6dcd77a
