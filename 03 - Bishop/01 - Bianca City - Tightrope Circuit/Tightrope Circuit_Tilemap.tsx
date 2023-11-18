@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tileset name="Tightrope Circuit_Tilemap" tilewidth="8" tileheight="8" tilecount="256" columns="16">
- <image source="Tightrope Circuit_Tilemap.png" width="128" height="128"/>
+<tileset version="1.5" tiledversion="1.7.2" name="Tightrope Circuit_Tilemap" tilewidth="16" tileheight="16" tilecount="256" columns="16">
+ <image source="Tightrope Circuit_Tilemap.png" width="256" height="256"/>
 </tileset>
